@@ -1,7 +1,7 @@
 # personal.data
 1C-Bitrix component for update personal data in personal section
 
-#Код вызова компонента:
+# Код вызова компонента:
 
 $APPLICATION->IncludeComponent(
     "flxmd:personal.data",
